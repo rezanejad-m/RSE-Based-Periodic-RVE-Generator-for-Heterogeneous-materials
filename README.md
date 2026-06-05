@@ -26,3 +26,13 @@ The developed framework enables the generation of microstructures with prescribe
 ## Notes
 
 The repository is intended to demonstrate the methodology and capabilities of the developed framework. Core source codes are not publicly released.
+
+## Example Generated RVEs
+
+### Volume Fraction = 40%
+
+![VF40](images/RVE_VF40.png)
+
+### Volume Fraction = 50%
+
+![VF50](images/RVE_VF50.png)
