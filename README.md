@@ -18,20 +18,41 @@ The process continues until the target inclusion volume fraction is achieved.
 
 ## Key Features
 
-- Random Sequential Expansion (RSE) algorithm
+- RSE-based microstructure generation
 - Periodic Representative Volume Elements (RVEs)
-- Controlled inclusion volume fractions
+- Controlled inclusion volume fraction
 - Non-overlapping particle placement
-- Batch microstructure generation
+- Circular inclusion modeling
+- Automated batch generation
 - MATLAB implementation
+
+## Input Parameters
+
+The framework allows the user to control:
+
+- RVE window size
+- Inclusion radius
+- Inclusion volume fraction
+- Number of generated RVEs
+- Random seed
+- Periodicity settings
+
+## Technical Highlights
+
+- Generation of statistically random microstructures
+- Periodic boundary enforcement during generation
+- High-volume-fraction microstructure generation
+- Efficient convergence using the RSE algorithm
+- Support for large-scale dataset generation
 
 ## Applications
 
-- Heterogeneous and composite materials
+- Heterogeneous and Composite materials modeling
 - Computational homogenization
-- Microstructure modeling
-- Finite Element Analysis (FEA)
+- Finite element preprocessing
+- Statistical microstructure analysis
 - Materials science research
+- Synthetic dataset generation
 
 ## Notes
 
