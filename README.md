@@ -31,8 +31,8 @@ The repository is intended to demonstrate the methodology and capabilities of th
 
 ### Volume Fraction = 40%
 
-![VF40](images/RVE_VF40.png)
+![VF40](images/RVE_VF40.jpg)
 
 ### Volume Fraction = 50%
 
-![VF50](images/RVE_VF50.png)
+![VF50](images/RVE_VF50.jpg)
