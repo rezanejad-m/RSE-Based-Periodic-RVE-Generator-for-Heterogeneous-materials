@@ -54,10 +54,6 @@ The framework allows the user to control:
 - Materials science research
 - Synthetic dataset generation
 
-## Notes
-
-The repository is intended to demonstrate the methodology and capabilities of the developed framework. Core source codes are not publicly released.
-
 ## Example Generated RVEs
 
 ### Volume Fraction = 40%
@@ -67,3 +63,7 @@ The repository is intended to demonstrate the methodology and capabilities of th
 ### Volume Fraction = 50%
 
 ![VF50](images/RVE_VF50.jpg)
+
+## Notes
+
+The repository is intended to demonstrate the methodology and capabilities of the developed framework. Core source codes are not publicly released.
