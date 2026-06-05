@@ -6,6 +6,16 @@ This repository presents a MATLAB-based implementation of the Random Sequential 
 
 The developed framework enables the generation of microstructures with prescribed inclusion volume fractions while ensuring non-overlapping particle placement and periodicity of the representative domain.
 
+## Methodology
+
+The microstructures are generated using the Random Sequential Expansion (RSE) algorithm.
+
+Starting from an initial inclusion, subsequent inclusions are placed by randomly selecting their relative distance and angular position while preventing overlap with previously generated inclusions.
+
+To ensure periodicity, whenever an inclusion intersects a domain boundary, its corresponding image inclusion is simultaneously created on the opposite boundary.
+
+The process continues until the target inclusion volume fraction is achieved.
+
 ## Key Features
 
 - Random Sequential Expansion (RSE) algorithm
